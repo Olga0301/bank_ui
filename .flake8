@@ -1,0 +1,4 @@
+[flake8]
+exclude=venv,.idea,.git,dist,build,__pycache__,.pytest_cache,tests
+ignore=E116
+max-line-length=119
